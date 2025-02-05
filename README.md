@@ -1,4 +1,4 @@
- <img src="./readme-logo.png" />
+ <img src="./readme-logo.jpg" />
 
 <h1>Hi 👋, I'm Patrick Dwamena </h1>
 <p>A passionate fullstack developer from Ghana</p>
