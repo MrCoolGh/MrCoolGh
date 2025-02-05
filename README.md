@@ -1,6 +1,17 @@
 <div align="center">
 <h1>Hi 👋, I'm Patrick Dwamena </h1>
-<p>A passionate fullstack developer from Ghana</p>
+<p>
+<h3> A passionate full-stack developer from Ghana </h3>
+  
+ 🔭 I’m currently **studying**
+ 
+ 🌱 I’m currently learning **PHP, NEXT JS, JAVA**
+
+💬 Ask me about **HTML, CSS, MySQL... or anything [here](https://github.com/mrcoolgh/mrcoolgh/issues)**
+
+⚡ Fun fact **Playing Video Games**
+
+</p>
 <h2>🚀 Languages and Tools I Use</h2>
 <p><a target="_blank" href="https://angular.io/assets/images/logos/angular/angular.svg" style="display: inline-block;"><img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="42" height="42" /></a>
 <a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="42" height="42" /></a>
