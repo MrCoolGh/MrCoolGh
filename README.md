@@ -1,3 +1,5 @@
+ <img src="./readme-logo.png" />
+
 <h1>Hi 👋, I'm Patrick Dwamena </h1>
 <p>A passionate fullstack developer from Ghana</p>
 <h2>🚀 Languages and Tools I Use</h2>
