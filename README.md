@@ -1,4 +1,4 @@
-
+<div align="center">
 <h1>Hi 👋, I'm Patrick Dwamena </h1>
 <p>A passionate fullstack developer from Ghana</p>
 <h2>🚀 Languages and Tools I Use</h2>
@@ -53,8 +53,10 @@
 
 
 <h2>⚡️MY CONTRIBUTION</h2>
+</div>
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
   <img alt="github-snake" src="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
 </picture>
+
