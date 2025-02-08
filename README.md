@@ -1,4 +1,8 @@
 <div align="center">
+
+![My Image](https://raw.githubusercontent.com/mrcoolgh/mrcoolgh/main/joy.png)
+
+  
 <h1>Hi 👋, I'm Patrick Dwamena </h1>
 <p>
 <h3> A passionate full-stack developer from Ghana </h3>
