@@ -1,0 +1,64 @@
+# Questions and Answers (Correct Answers Bolded)
+
+**Question 1:**  
+What role does a sample population play in determining uniqueness constraints?  
+A. It is irrelevant for constraints  
+B. It defines attribute data types  
+C. **It helps identify which combinations are unique**  
+D. It ensures the database is normalized  
+
+**Question 2:**  
+What type of relationship exists when each politician is born in one country, but a country can be the birthplace of multiple politicians?  
+A. One-to-one  
+B. **Many-to-one**  
+C. One-to-many  
+D. Many-to-many  
+
+**Question 3:**  
+Can a fact type have multiple uniqueness constraints?  
+A. Only for ternary or higher fact types  
+B. **No, only one is allowed**  
+C. Only for binary fact types  
+D. Yes, if they do not conflict  
+
+**Question 4:**  
+In ORM diagrams, how is a uniqueness constraint visually represented?  
+A. With an arrow  
+B. With a circle  
+C. **With a bar over the role(s)**  
+D. With a diamond  
+
+**Question 5:**  
+What type of relationship is represented when each person has only one mother?  
+A. One-to-many  
+B. Many-to-many  
+C. **Many-to-one**  
+D. One-to-one  
+
+**Question 6:**  
+In a ternary fact type involving Person, Subject, and Rating, what does a uniqueness constraint on Person and Subject imply?  
+A. Each rating is unique  
+B. **Each person-subject pair has at most one rating**  
+C. Each person can have only one subject  
+D. Each subject can have only one rating  
+
+**Question 7:**  
+What is a common approach to uniquely identify entities when natural attributes are insufficient?  
+A. Normalize the database  
+B. Add more attributes  
+C. **Use a surrogate key, such as an ID number**  
+D. Use a composite key  
+
+**Question 8:**  
+How does uniqueness in data modeling differ from uniqueness in reality?  
+A. **Data modeling uses attributes, reality uses the entity’s essence**  
+B. They are identical  
+C. Data modeling uniqueness is optional, reality is mandatory  
+D. Data modeling enforces uniqueness via the database, reality via inherent properties  
+
+**Question 9:**  
+In a ternary fact type, what does a uniqueness constraint on two roles imply?  
+A. The entire row is unique  
+B. Each value in the first role is unique  
+C. **Each combination of those two roles is unique**  
+D. Each value in the second role is unique
